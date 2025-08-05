@@ -1,0 +1,10 @@
+{
+  "/not-found": "app/not-found.js",
+  "/lending/page": "app/lending/page.js",
+  "/payroll/page": "app/payroll/page.js",
+  "/dao/page": "app/dao/page.js",
+  "/rwa/page": "app/rwa/page.js",
+  "/docs/page": "app/docs/page.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
